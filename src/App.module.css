@@ -1,0 +1,5 @@
+.container {
+    display: grid !important;
+    gap: 20px;
+    padding: 20px;
+}
